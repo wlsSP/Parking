@@ -1,0 +1,12 @@
+C:\Projects\Parking.Control.API\Parking.Infra.Data\bin\Debug\net7.0\Parking.Infra.Data.deps.json
+C:\Projects\Parking.Control.API\Parking.Infra.Data\bin\Debug\net7.0\Parking.Infra.Data.dll
+C:\Projects\Parking.Control.API\Parking.Infra.Data\bin\Debug\net7.0\Parking.Infra.Data.pdb
+C:\Projects\Parking.Control.API\Parking.Infra.Data\obj\Debug\net7.0\Parking.Infra.Data.csproj.AssemblyReference.cache
+C:\Projects\Parking.Control.API\Parking.Infra.Data\obj\Debug\net7.0\Parking.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Parking.Control.API\Parking.Infra.Data\obj\Debug\net7.0\Parking.Infra.Data.AssemblyInfoInputs.cache
+C:\Projects\Parking.Control.API\Parking.Infra.Data\obj\Debug\net7.0\Parking.Infra.Data.AssemblyInfo.cs
+C:\Projects\Parking.Control.API\Parking.Infra.Data\obj\Debug\net7.0\Parking.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Parking.Control.API\Parking.Infra.Data\obj\Debug\net7.0\Parking.Infra.Data.dll
+C:\Projects\Parking.Control.API\Parking.Infra.Data\obj\Debug\net7.0\refint\Parking.Infra.Data.dll
+C:\Projects\Parking.Control.API\Parking.Infra.Data\obj\Debug\net7.0\Parking.Infra.Data.pdb
+C:\Projects\Parking.Control.API\Parking.Infra.Data\obj\Debug\net7.0\ref\Parking.Infra.Data.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pdHHaF/HQQ8O437kO9EuSHEVvx+OlMi2Q+eF9uzLnNphDGx8OcNuycHsqJjZpd1N5oJEzuKv6TeHo59Ru5X3Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Parking.Control.API\\Parking.Application\\Parking.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wlssa\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\wlssa\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
+    "C:\\Users\\wlssa\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\wlssa\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\wlssa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
